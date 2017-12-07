@@ -1,0 +1,5 @@
+/Users/macbook/Desktop/Work/C# Snippets/SudokuValidator/SudokuValidator/bin/Debug/SudokuValidator.exe
+/Users/macbook/Desktop/Work/C# Snippets/SudokuValidator/SudokuValidator/bin/Debug/SudokuValidator.pdb
+/Users/macbook/Desktop/Work/C# Snippets/SudokuValidator/SudokuValidator/obj/x86/Debug/SudokuValidator.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Work/C# Snippets/SudokuValidator/SudokuValidator/obj/x86/Debug/SudokuValidator.exe
+/Users/macbook/Desktop/Work/C# Snippets/SudokuValidator/SudokuValidator/obj/x86/Debug/SudokuValidator.pdb
